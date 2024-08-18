@@ -1,7 +1,9 @@
 # Youtube Community Post Downloader
 ### Scuffed Edition
 
-I couldn't find any youtube community post downloaders, so I made one myself.
+I couldn't find any youtube community post downloaders that also downloaded the post itself (not just the images), so I made one myself.
+While the images are the main appeal, I wanted the context to go with them.
+So. I coded it myself.
 
 Downloads the posts, all of the text on the posts, as well as the images attached.
 Currently does not work with Polls.
