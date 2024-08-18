@@ -13,7 +13,7 @@ Currently does not work with Polls.
 3. Just run the script
 
 
-Refer to Tutorial.mp4 that I included.
+Refer to Tutorial.mp4 that I included if you're still confused.
 
 ## Log:
 ##### 2024-08-18: Uploaded it to github
